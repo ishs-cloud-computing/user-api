@@ -63,9 +63,8 @@ CREATE TABLE users (
 This project uses the following open-source libraries:
 
 - [github.com/go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) — Mozilla Public License 2.0
-- [github.com/gorilla/mux](https://github.com/gorilla/mux) — BSD 3-Clause License
 
 All third-party libraries are used according to their license terms.
 
 ## License
-This project is licensed under [Zero-Clause BSD (0BSD)](LICENSE).
+This project is licensed under [BSD-3-Clause](LICENSE).
