@@ -67,4 +67,4 @@ This project uses the following open-source libraries:
 All third-party libraries are used according to their license terms.
 
 ## License
-This project is licensed under [Zero-Clause BSD (0BSD)](LICENSE).
+This project is licensed under [BSD-3-Clause](LICENSE).
